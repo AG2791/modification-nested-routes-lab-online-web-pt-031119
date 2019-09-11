@@ -5,7 +5,6 @@
 1. Implement nested resources for creation and modification
 
 ## Overview
-
 In this lab, we're going to be implementing nested resources for
 creating and editing songs through an artist.
 
